@@ -1,8 +1,9 @@
 body{
     font-family: "Caveat Brush";
-    font-size: 28px;
+    color: Blue;
+    font-size: 24px;
     background-color: lightblue;
-    text-align: center;
+    text-align: left;
 }
 
 #description{
