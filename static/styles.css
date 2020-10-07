@@ -1,0 +1,25 @@
+body{
+    font-family: "Caveat Brush";
+    font-size: 28px;
+    background-color: lightblue;
+    text-align: center;
+}
+
+#description{
+    font-size: 25px;
+}
+
+ol{ 
+    font-size: 18px;
+    background-color: Powderblue;
+    font-family: cursive;
+    text-align: left;
+}
+
+a{
+    color: hotpink;
+}
+
+p{
+    color: hotpink;
+}
