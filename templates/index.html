@@ -5,6 +5,8 @@
     <body>
         <h1>Hello Templates! {{ random_number }}</h1>
         <h2>{{ htmlname }}'s Sneaker Page</h2>
-        <img width="400px" height="400px" src="/static/shoes.jpg" /> 
+        {%for i in range(0,random_number)%}
+            <img width="400px" height="400px" src="https://cdn.flightclub.com/1500/TEMPLATE/152669/1.jpg" /> 
+        {%endfor%}
     </body>
 </html>
